@@ -6,10 +6,13 @@ import cchardet
 import tensorflow as tf
 from PIL import Image
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 import numpy as np
 import io
 
 app = Flask(__name__)
+
+CORS(app)
 
 def wiki(Animal) :
     Animal = Animal.strip()
