@@ -3,6 +3,13 @@ import re
 import json
 from bs4 import BeautifulSoup, SoupStrainer
 import cchardet
+import tensorflow as tf
+from PIL import Image
+from flask import Flask, jsonify, request
+import numpy as np
+import io
+
+app = Flask(__name__)
 
 def wiki(Animal) :
     Animal = Animal.strip()
@@ -50,3 +57,39 @@ def wiki(Animal) :
                 index += 1
     resp['taxonomy']=taxonomy
     return resp
+
+class_labels = []
+with open('labels.txt','r') as labels:
+    class_labels = list(map(lambda x: x.strip(), labels.readlines()))
+model = tf.keras.models.load_model('model.keras')
+
+@app.route('/api/classify', methods=['POST'])
+def classify():
+    # Get the uploaded file from the form
+    file = request.files['image']
+        
+    # Convert it to a BytesIO object
+    image_bytes = io.BytesIO(file.read())
+        
+    # Open the image using PIL
+    image = Image.open(image_bytes)
+    
+    # Resize the image to the expected input size of the model
+    image = image.resize((299,299))
+    img_array = np.array(image)  # Convert the image to array
+    img_array = np.expand_dims(img_array, axis=0)  # Add batch dimension
+    img_array = tf.keras.applications.xception.preprocess_input(img_array)
+
+    predictions = model.predict(img_array)
+    # Replace with actual class labels
+    predicted_class = class_labels[np.argmax(predictions)]
+    
+    resp = wiki(predicted_class)
+    
+    resp['label'] = predicted_class
+    print(resp)
+    # return json
+    return jsonify(resp)
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0') 

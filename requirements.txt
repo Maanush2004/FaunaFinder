@@ -1,3 +1,6 @@
 httpx
 bs4
 faust-cchardet
+tensorflow==2.15
+pillow
+flask
