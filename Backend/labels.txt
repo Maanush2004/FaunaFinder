@@ -1,398 +1,398 @@
-Admiral
-Affenpinscher
-Afghan Hound
-African Chameleon
-African Crocodile
+Admiral;Limenitis;Limenitis
+Affenpinscher;Dog
+Afghan Hound;Dog
+African chameleon
+African crocodile
 African Elephant
 African Grey
 African Hunting Dog
-Agama
-Airedale
+Agama (lizard)
+Airedale Terrier;Dog
 Albatross
-Alligator Lizard
+Alligator Lizard;Elgaria;Elgaria
 American Alligator
 American Black Bear
 American Chameleon
 American Coot
-American Egret
+American Egret;Great Egret;Great Egret
 American Lobster
-American Staffordshire Terrier
+American Staffordshire Terrier;Dog
 Anemone Fish
-Angora
+Angora Rabbit;Rabbit
 Ant
-Appenzeller
+Appenzeller Sennenhund;Dog
 Arabian Camel
 Arctic Fox
 Armadillo
-Australian Terrier
+Australian Terrier;Dog
 Axolotl
 Baboon
 Badger
 Bald Eagle
-Banded Gecko
+Banded Gecko;Coleonyx;Coleonyx
 Barn Spider
 Barracouta
-Basenji
-Basset
-Beagle
+Basenji;Dog
+Basset;Dog
+Beagle;Dog
 Beaver
-Bedlington Terrier
+Bedlington Terrier;Dog
 Bee
-Bee Eater
-Bernese Mountain Dog
+Bee Eater;Bee-eater;Bee-eater
+Bernese Mountain Dog;Dog
 Bighorn
 Bison
 Bittern
-Black And Gold Garden Spider
+Black And Gold Garden Spider;Argiope_aurantia;Argiope_aurantia
 Black Grouse
 Black Stork
 Black Swan
-Black Widow
-Black-And-Tan Coonhound
+Black Widow;Latrodectus;Latrodectus
+Black and Tan Coonhound;Dog
 Black-Footed Ferret
-Blenheim Spaniel
-Bloodhound
-Bluetick
+Blenheim Spaniel;Dog
+Bloodhound;Dog
+Bluetick;Dog
 Boa Constrictor
-Border Collie
-Border Terrier
-Borzoi
-Boston Bull
-Bouvier Des Flandres
-Box Turtle
-Boxer
-Brabancon Griffon
+Border Collie;Dog
+Border Terrier;Dog
+Borzoi;Dog
+Boston Terrier;Dog
+Bouvier Des Flandres;Dog
+Box Turtle;Turtle
+Boxer (dog);Dog
+Brabancon Griffon;Dog
 Brain Coral
 Brambling
-Briard
-Brittany Spaniel
+Briard;Dog
+Brittany Spaniel;Dog
 Brown Bear
 Bulbul
-Bull Mastiff
-Bullfrog
+Bull Mastiff;Dog
+Bullfrog;Frog;Frog
 Bustard
 Cabbage Butterfly
-Cairn
-Capuchin
-Cardigan
+Cairn Terrier;Dog
+Capuchin Monkey
+Cardigan Welsh Corgi;Dog
 Centipede
 Chambered Nautilus
 Cheetah
-Chesapeake Bay Retriever
-Chickadee
-Chihuahua
+Chesapeake Bay Retriever;Dog
+Chickadee;Poecile
+Chihuahua (dog);Dog
 Chimpanzee
 Chiton
-Chow
+Chow Chow;Dog
 Cicada
-Clumber
-Cock
-Cocker Spaniel
+Clumber Spaniel;Dog
+Cock;Chicken;Chicken
+Cocker Spaniel;Dog
 Cockroach
 Coho
-Collie
+Collie;Dog
 Colobus
 Common Iguana
-Common Newt
-Conch
+Common newt
+Conch;Strombus
 Coucal
 Cougar
 Coyote
-Crane
+Crane (bird)
 Crayfish
-Cricket
-Curly-Coated Retriever
-Dalmatian
+Cricket (insect)
+Curly-Coated Retriever;Dog
+Dalmatian (dog);Dog
 Damselfly
-Dandie Dinmont
+Dandie Dinmont;Dog
 Dhole
-Diamondback
+Diamondback;Western Diamondback Rattlesnake;Western Diamondback Rattlesnake
 Dingo
-Doberman
+Doberman;Dog
 Dowitcher
 Dragonfly
-Drake
+Duck
 Dugong
 Dung Beetle
 Dungeness Crab
 Echidna
 Eel
 Eft
-Egyptian Cat
+Egyptian Mau;Cat
 Electric Ray
-English Foxhound
-English Setter
-English Springer
-Entlebucher
-Eskimo Dog
-European Fire Salamander
-European Gallinule
+English Foxhound;Dog
+English Setter;Dog
+English Springer;Dog
+Entlebucher;Dog
+Eskimo Dog;Sled dog;Dog
+European Fire Salamander;Fire Salamander;Fire Salamander
+European Gallinule;Common Gallinule;Common Gallinule
 Fiddler Crab
 Flamingo
-Flat-Coated Retriever
+Flat-Coated Retriever;Dog
 Flatworm
 Fly
 Fox Squirrel
-French Bulldog
+French Bulldog;Dog
 Frilled Lizard
 Gar
 Garden Spider
 Garter Snake
 Gazelle
-German Shepherd
-German Short-Haired Pointer
+German Shepherd;Dog
+German Shorthaired Pointer;Dog
 Giant Panda
-Giant Schnauzer
+Giant Schnauzer;Dog
 Gibbon
 Gila Monster
-Golden Retriever
-Goldfinch
+Golden Retriever;Dog
+Goldfinch;Lesser Goldfinch;Lesser Goldfinch
 Goldfish
-Goose
-Gordon Setter
+Goose;Anatidae
+Gordon Setter;Dog
 Gorilla
 Grasshopper
-Great Dane
+Great Dane;Dog
 Great Grey Owl
-Great Pyrenees
+Great Pyrenees;Dog
 Great White Shark
-Greater Swiss Mountain Dog
-Green Lizard
-Green Mamba
-Green Snake
+Greater Swiss Mountain Dog;Dog
+Green Lizard;European green lizard;European green lizard
+Green Mamba;Eastern Green Mamba;Eastern Green Mamba
+Green Snake;Smooth Green Snake;Smooth Green Snake
 Grey Fox
 Grey Whale
-Groenendael
+Groenendael;Dog
 Ground Beetle
 Guenon
 Guinea Pig
-Hammerhead
+Hammerhead Shark
 Hamster
 Hare
 Hartebeest
 Harvestman
-Hen
+Hen;Chicken;Chicken
 Hermit Crab
 Hippopotamus
-Hog
-Hognose Snake
+Hog;Suidae;Suidae
+Hognose Snake;Snake
 Hornbill
-Horned Viper
+Horned adder
 House Finch
 Howler Monkey
 Hummingbird
 Hyena
-Ibex
-Ibizan Hound
+Ibex;Capra (genus)
+Ibizan Hound;Dog
 Ice Bear
 Impala
 Indian Cobra
 Indian Elephant
 Indigo Bunting
 Indri
-Irish Setter
-Irish Terrier
-Irish Water Spaniel
-Irish Wolfhound
+Irish Setter;Dog
+Irish Terrier;Dog
+Irish Water Spaniel;Dog
+Irish Wolfhound;Dog
 Isopod
-Italian Greyhound
+Italian Greyhound;Dog
 Jacamar
 Jaguar
-Japanese Spaniel
+Japanese Spaniel;Dog
 Jay
 Jellyfish
 Junco
-Keeshond
-Kelpie
-Kerry Blue Terrier
+Keeshond;Dog
+Kelpie;Australian Kelpie;Dog
+Kerry Blue Terrier;Dog
 Killer Whale
 King Crab
 King Penguin
-King Snake
+Kingsnake
 Kit Fox
-Kite
+Kite (bird)
 Koala
 Komodo Dragon
-Komondor
-Kuvasz
-Labrador Retriever
+Komondor;Dog
+Kuvasz;Dog
+Labrador Retriever;Dog
 Lacewing
 Ladybug
-Lakeland Terrier
+Lakeland Terrier;Dog
 Langur
 Leaf Beetle
 Leafhopper
 Leatherback Turtle
-Leonberg
+Leonberger;Dog
 Leopard
 Lesser Panda
-Lhasa
+Lhasa Apso;Dog
 Limpkin
 Lion
 Lionfish
 Little Blue Heron
 Llama
-Loggerhead
-Long-Horned Beetle
+Loggerhead Sea Turtle
+Longhorn Beetle
 Lorikeet
 Lycaenid
 Lynx
 Macaque
 Macaw
-Madagascar Cat
+Madagascar Lemur;Lemur;Lemur
 Magpie
-Malamute
-Malinois
-Maltese Dog
+Malamute;Dog
+Malinois;Belgian Shepherd;Dog
+Maltese Dog;Dog
 Mantis
 Marmoset
 Marmot
 Meerkat
-Mexican Hairless
-Miniature Pinscher
-Miniature Poodle
-Miniature Schnauzer
+Mexican Hairless Dog;Dog
+Miniature Pinscher;Dog
+Miniature Poodle;Dog
+Miniature Schnauzer;Dog
 Mink
-Monarch
+Monarch;Danaus (butterfly);Danaus (butterfly)
 Mongoose
 Mud Turtle
 Nematode
-Newfoundland
-Night Snake
-Norfolk Terrier
-Norwegian Elkhound
-Norwich Terrier
-Old English Sheepdog
+Newfoundland (dog);Dog
+Night Snake;Hypsiglena torquata;Hypsiglena torquata
+Norfolk Terrier;Dog
+Norwegian Elkhound;Dog
+Norwich Terrier;Dog
+Old English Sheepdog;Dog
 Orangutan
 Ostrich
 Otter
-Otterhound
-Ox
+Otterhound;Dog
+Ox;Bovinae
 Oystercatcher
-Papillon
+Papillon (dog);Dog
 Partridge
 Patas
 Peacock
-Pekinese
+Pekinese;Dog
 Pelican
-Pembroke
-Persian Cat
+Pembroke Welsh Corgi;Dog
+Persian Cat;Cat
 Platypus
-Polecat
-Pomeranian
+Polecat;Mustelidae
+Pomeranian (dog);Dog
 Porcupine
 Prairie Chicken
 Proboscis Monkey
 Ptarmigan
-Puffer
-Pug
+Pufferfish
+Pug;Dog
 Quail
-Ram
+Ram;Sheep;Sheep
 Red Fox
 Red Wolf
-Red-Backed Sandpiper
-Red-Breasted Merganser
-Redbone
-Redshank
+Red-Backed Sandpiper;Dunlin;Dunlin
+Red-breasted Merganser
+Redbone Coonhound;Dog
+Redshank;Common Redshank;Common Redshank
 Rhinoceros Beetle
-Rhodesian Ridgeback
+Rhodesian Ridgeback;Dog
 Ringlet
 Ringneck Snake
-Robin
+Robin;American Robin;American Robin
 Rock Beauty
-Rock Crab
-Rock Python
-Rottweiler
+Rock Crab;Cancer irroratus;Cancer irroratus
+Rock Python;Central African rock python;Central African rock python
+Rottweiler;Dog
 Ruddy Turnstone
 Ruffed Grouse
-Saint Bernard
-Saluki
-Samoyed
-Schipperke
+Saint Bernard (dog);Dog
+Saluki;Dog
+Samoyed (dog);Dog
+Schipperke;Dog
 Scorpion
-Scotch Terrier
-Scottish Deerhound
+Scotch Terrier;Dog
+Scottish Deerhound;Dog
 Sea Anemone
 Sea Cucumber
 Sea Lion
-Sea Slug
+Sea Slug;Gastropoda
 Sea Snake
 Sea Urchin
-Sealyham Terrier
-Shetland Sheepdog
-Shih-Tzu
+Sealyham Terrier;Dog
+Shetland Sheepdog;Dog
+Shih-Tzu;Dog
 Siamang
-Siamese Cat
-Siberian Husky
-Sidewinder
-Silky Terrier
+Siamese Cat;Cat
+Siberian Husky;Dog
+Sidewinder;Crotalus cerastes;Crotalus cerastes
+Silky Terrier;Dog
 Skunk
 Sloth Bear
 Slug
 Snail
 Snow Leopard
-Soft-Coated Wheaten Terrier
+Soft-Coated Wheaten Terrier;Dog
 Sorrel
 Spider Monkey
 Spiny Lobster
 Spoonbill
 Spotted Salamander
 Squirrel Monkey
-Staffordshire Bullterrier
-Standard Poodle
-Standard Schnauzer
+Staffordshire Bull Terrier;Dog
+Standard Poodle;Dog
+Standard Schnauzer;Dog
 Starfish
 Stingray
 Sturgeon
-Sulphur Butterfly
+Sulphur Butterfly;Coliadinae;Coliadinae
 Sulphur-Crested Cockatoo
-Sussex Spaniel
-Tabby
+Sussex Spaniel;Dog
+Tabby;Cat
 Tailed Frog
 Tarantula
 Tench
-Terrapin
-Three-Toed Sloth
-Thunder Snake
-Tibetan Mastiff
-Tibetan Terrier
+Terrapin;Turtle
+Three-toed Sloth
+Thunder Snake;Tropidophiidae;Tropidophiidae
+Tibetan Mastiff;Dog
+Tibetan Terrier;Dog
 Tick
 Tiger
 Tiger Beetle
 Tiger Cat
 Tiger Shark
-Timber Wolf
+Timber Wolf;Eastern Wolf;Eastern Wolf
 Titi
 Toucan
-Toy Poodle
-Toy Terrier
-Tree Frog
+Toy Poodle;Dog
+Toy Terrier;Dog
+Tree Frog;Frog
 Triceratops
 Trilobite
-Tusker
-Vine Snake
-Vizsla
+Tusker;Elephant;Elephant
+Vine Snake;Oxybelis;Oxybelis
+Vizsla;Dog
 Vulture
-Walker Hound
-Walking Stick
-Wallaby
+Walker Hound;Treeing Walker Coonhound;Dog
+Walking Stick;Phasmatodea;Phasmatodea
+Wallaby;Macropodidae
 Warthog
 Water Buffalo
 Water Ouzel
-Water Snake
+Water Snake;Nerodia;Nerodia
 Weasel
 Weevil
-Weimaraner
-Welsh Springer Spaniel
-West Highland White Terrier
-Whippet
-Whiptail
+Weimaraner;Dog
+Welsh Springer Spaniel;Dog
+West Highland White Terrier;Dog
+Whippet;Dog
+Whiptail;Teiidae;Teiidae
 White Stork
-White Wolf
+White Wolf;Arctic Wolf;Arctic Wolf
 Wild Boar
-Wire-Haired Fox Terrier
+Wire-Haired Fox Terrier;Dog
 Wolf Spider
 Wombat
-Wood Rabbit
-Yorkshire Terrier
+Wood Rabbit;Eastern Cottontail;Eastern Cottontail
+Yorkshire Terrier;Dog
 Zebra

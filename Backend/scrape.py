@@ -14,16 +14,30 @@ app = Flask(__name__)
 
 CORS(app)
 
-def wiki(Animal) :
-    Animal = Animal.strip()
-    summary_url = "https://en.wikipedia.org/api/rest_v1/page/summary/" + Animal
-    taxonomy_url = "https://en.wikipedia.org/wiki/" + Animal
+def wiki(Animal_args) :
+    Animal = Animal_args.split(';')
+    summary_url = None
+    taxonomy_url = None
+    resp = {}
+    disambiguation = Animal[0].find('(')
+    if disambiguation == -1:
+        resp['label'] = Animal[0]
+    else:
+        resp['label'] = Animal[0][:disambiguation-1]
+    if len(Animal) == 1:
+        summary_url = "https://en.wikipedia.org/api/rest_v1/page/summary/" + Animal[0]
+        taxonomy_url = "https://en.wikipedia.org/wiki/" + Animal[0]
+    elif len(Animal) == 2:
+        summary_url = "https://en.wikipedia.org/api/rest_v1/page/summary/" + Animal[0]
+        taxonomy_url = "https://en.wikipedia.org/wiki/" + Animal[1]
+    elif len(Animal) == 3:
+        summary_url = "https://en.wikipedia.org/api/rest_v1/page/summary/" + Animal[1]
+        taxonomy_url = "https://en.wikipedia.org/wiki/" + Animal[2]
     r = None
     content = None
     with httpx.Client(follow_redirects=True) as client:
         content = client.get(summary_url).json()
         r = client.get(taxonomy_url)
-    resp = {}
     if 'extract' in content :
         resp['summary'] = content['extract']
     if 'originalimage' in content : 
@@ -89,8 +103,6 @@ def classify():
     
     resp = wiki(predicted_class)
     
-    resp['label'] = predicted_class
-    print(resp)
     # return json
     return jsonify(resp)
 
