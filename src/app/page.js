@@ -41,7 +41,7 @@ export default function Page()  {
       formData.append('image', file);
   
       // Fetch the raw response and parse manually
-      axios.post('http://localhost:5000/api/classify', formData, {
+      axios.post('/api/classify', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
@@ -256,7 +256,7 @@ export default function Page()  {
               {scientificClassification && Object.keys(scientificClassification).length > 0 ? (
                 <ul style={{ lineHeight: '2rem', marginBottom: '0' }}>
                   {Object.entries(scientificClassification).map(([key, value]) => (
-                    <li key={Object.entries(value)[0][0]}><strong>{Object.entries(value)[0][0]}:</strong> {Object.entries(value)[0][1]}</li>
+                    <li key={key}><strong>{key}:</strong> {value}</li>
                   ))}
                 </ul>
               ) : (

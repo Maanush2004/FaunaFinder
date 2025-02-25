@@ -1,0 +1,398 @@
+Admiral;Limenitis;Limenitis
+Affenpinscher;Dog
+Afghan Hound;Dog
+African chameleon
+African crocodile
+African Elephant
+African Grey
+African Hunting Dog
+Agama (lizard)
+Airedale Terrier;Dog
+Albatross
+Alligator Lizard;Elgaria;Elgaria
+American Alligator
+American Black Bear
+American Chameleon
+American Coot
+American Egret;Great Egret;Great Egret
+American Lobster
+American Staffordshire Terrier;Dog
+Anemone Fish
+Angora Rabbit;Rabbit
+Ant
+Appenzeller Sennenhund;Dog
+Arabian Camel
+Arctic Fox
+Armadillo
+Australian Terrier;Dog
+Axolotl
+Baboon
+Badger
+Bald Eagle
+Banded Gecko;Coleonyx;Coleonyx
+Barn Spider
+Barracouta
+Basenji;Dog
+Basset;Dog
+Beagle;Dog
+Beaver
+Bedlington Terrier;Dog
+Bee
+Bee Eater;Bee-eater;Bee-eater
+Bernese Mountain Dog;Dog
+Bighorn
+Bison
+Bittern
+Black And Gold Garden Spider;Argiope_aurantia;Argiope_aurantia
+Black Grouse
+Black Stork
+Black Swan
+Black Widow;Latrodectus;Latrodectus
+Black and Tan Coonhound;Dog
+Black-Footed Ferret
+Blenheim Spaniel;Dog
+Bloodhound;Dog
+Bluetick;Dog
+Boa Constrictor
+Border Collie;Dog
+Border Terrier;Dog
+Borzoi;Dog
+Boston Terrier;Dog
+Bouvier Des Flandres;Dog
+Box Turtle;Turtle
+Boxer (dog);Dog
+Brabancon Griffon;Dog
+Brain Coral
+Brambling
+Briard;Dog
+Brittany Spaniel;Dog
+Brown Bear
+Bulbul
+Bull Mastiff;Dog
+Bullfrog;Frog;Frog
+Bustard
+Cabbage Butterfly
+Cairn Terrier;Dog
+Capuchin Monkey
+Cardigan Welsh Corgi;Dog
+Centipede
+Chambered Nautilus
+Cheetah
+Chesapeake Bay Retriever;Dog
+Chickadee;Poecile
+Chihuahua (dog);Dog
+Chimpanzee
+Chiton
+Chow Chow;Dog
+Cicada
+Clumber Spaniel;Dog
+Cock;Chicken;Chicken
+Cocker Spaniel;Dog
+Cockroach
+Coho
+Collie;Dog
+Colobus
+Common Iguana
+Common newt
+Conch;Strombus
+Coucal
+Cougar
+Coyote
+Crane (bird)
+Crayfish
+Cricket (insect)
+Curly-Coated Retriever;Dog
+Dalmatian (dog);Dog
+Damselfly
+Dandie Dinmont;Dog
+Dhole
+Diamondback;Western Diamondback Rattlesnake;Western Diamondback Rattlesnake
+Dingo
+Doberman;Dog
+Dowitcher
+Dragonfly
+Duck
+Dugong
+Dung Beetle
+Dungeness Crab
+Echidna
+Eel
+Eft
+Egyptian Mau;Cat
+Electric Ray
+English Foxhound;Dog
+English Setter;Dog
+English Springer;Dog
+Entlebucher;Dog
+Eskimo Dog;Sled dog;Dog
+European Fire Salamander;Fire Salamander;Fire Salamander
+European Gallinule;Common Gallinule;Common Gallinule
+Fiddler Crab
+Flamingo
+Flat-Coated Retriever;Dog
+Flatworm
+Fly
+Fox Squirrel
+French Bulldog;Dog
+Frilled Lizard
+Gar
+Garden Spider
+Garter Snake
+Gazelle
+German Shepherd;Dog
+German Shorthaired Pointer;Dog
+Giant Panda
+Giant Schnauzer;Dog
+Gibbon
+Gila Monster
+Golden Retriever;Dog
+Goldfinch;Lesser Goldfinch;Lesser Goldfinch
+Goldfish
+Goose;Anatidae
+Gordon Setter;Dog
+Gorilla
+Grasshopper
+Great Dane;Dog
+Great Grey Owl
+Great Pyrenees;Dog
+Great White Shark
+Greater Swiss Mountain Dog;Dog
+Green Lizard;European green lizard;European green lizard
+Green Mamba;Eastern Green Mamba;Eastern Green Mamba
+Green Snake;Smooth Green Snake;Smooth Green Snake
+Grey Fox
+Grey Whale
+Groenendael;Dog
+Ground Beetle
+Guenon
+Guinea Pig
+Hammerhead Shark
+Hamster
+Hare
+Hartebeest
+Harvestman
+Hen;Chicken;Chicken
+Hermit Crab
+Hippopotamus
+Hog;Suidae;Suidae
+Hognose Snake;Snake
+Hornbill
+Horned adder
+House Finch
+Howler Monkey
+Hummingbird
+Hyena
+Ibex;Capra (genus)
+Ibizan Hound;Dog
+Ice Bear
+Impala
+Indian Cobra
+Indian Elephant
+Indigo Bunting
+Indri
+Irish Setter;Dog
+Irish Terrier;Dog
+Irish Water Spaniel;Dog
+Irish Wolfhound;Dog
+Isopod
+Italian Greyhound;Dog
+Jacamar
+Jaguar
+Japanese Spaniel;Dog
+Jay
+Jellyfish
+Junco
+Keeshond;Dog
+Kelpie;Australian Kelpie;Dog
+Kerry Blue Terrier;Dog
+Killer Whale
+King Crab
+King Penguin
+Kingsnake
+Kit Fox
+Kite (bird)
+Koala
+Komodo Dragon
+Komondor;Dog
+Kuvasz;Dog
+Labrador Retriever;Dog
+Lacewing
+Ladybug
+Lakeland Terrier;Dog
+Langur
+Leaf Beetle
+Leafhopper
+Leatherback Turtle
+Leonberger;Dog
+Leopard
+Lesser Panda
+Lhasa Apso;Dog
+Limpkin
+Lion
+Lionfish
+Little Blue Heron
+Llama
+Loggerhead Sea Turtle
+Longhorn Beetle
+Lorikeet
+Lycaenid
+Lynx
+Macaque
+Macaw
+Madagascar Lemur;Lemur;Lemur
+Magpie
+Malamute;Dog
+Malinois;Belgian Shepherd;Dog
+Maltese Dog;Dog
+Mantis
+Marmoset
+Marmot
+Meerkat
+Mexican Hairless Dog;Dog
+Miniature Pinscher;Dog
+Miniature Poodle;Dog
+Miniature Schnauzer;Dog
+Mink
+Monarch;Danaus (butterfly);Danaus (butterfly)
+Mongoose
+Mud Turtle
+Nematode
+Newfoundland (dog);Dog
+Night Snake;Hypsiglena torquata;Hypsiglena torquata
+Norfolk Terrier;Dog
+Norwegian Elkhound;Dog
+Norwich Terrier;Dog
+Old English Sheepdog;Dog
+Orangutan
+Ostrich
+Otter
+Otterhound;Dog
+Ox;Bovinae
+Oystercatcher
+Papillon (dog);Dog
+Partridge
+Patas
+Peacock
+Pekinese;Dog
+Pelican
+Pembroke Welsh Corgi;Dog
+Persian Cat;Cat
+Platypus
+Polecat;Mustelidae
+Pomeranian (dog);Dog
+Porcupine
+Prairie Chicken
+Proboscis Monkey
+Ptarmigan
+Pufferfish
+Pug;Dog
+Quail
+Ram;Sheep;Sheep
+Red Fox
+Red Wolf
+Red-Backed Sandpiper;Dunlin;Dunlin
+Red-breasted Merganser
+Redbone Coonhound;Dog
+Redshank;Common Redshank;Common Redshank
+Rhinoceros Beetle
+Rhodesian Ridgeback;Dog
+Ringlet
+Ringneck Snake
+Robin;American Robin;American Robin
+Rock Beauty
+Rock Crab;Cancer irroratus;Cancer irroratus
+Rock Python;Central African rock python;Central African rock python
+Rottweiler;Dog
+Ruddy Turnstone
+Ruffed Grouse
+Saint Bernard (dog);Dog
+Saluki;Dog
+Samoyed (dog);Dog
+Schipperke;Dog
+Scorpion
+Scotch Terrier;Dog
+Scottish Deerhound;Dog
+Sea Anemone
+Sea Cucumber
+Sea Lion
+Sea Slug;Gastropoda
+Sea Snake
+Sea Urchin
+Sealyham Terrier;Dog
+Shetland Sheepdog;Dog
+Shih-Tzu;Dog
+Siamang
+Siamese Cat;Cat
+Siberian Husky;Dog
+Sidewinder;Crotalus cerastes;Crotalus cerastes
+Silky Terrier;Dog
+Skunk
+Sloth Bear
+Slug
+Snail
+Snow Leopard
+Soft-Coated Wheaten Terrier;Dog
+Sorrel
+Spider Monkey
+Spiny Lobster
+Spoonbill
+Spotted Salamander
+Squirrel Monkey
+Staffordshire Bull Terrier;Dog
+Standard Poodle;Dog
+Standard Schnauzer;Dog
+Starfish
+Stingray
+Sturgeon
+Sulphur Butterfly;Coliadinae;Coliadinae
+Sulphur-Crested Cockatoo
+Sussex Spaniel;Dog
+Tabby;Cat
+Tailed Frog
+Tarantula
+Tench
+Terrapin;Turtle
+Three-toed Sloth
+Thunder Snake;Tropidophiidae;Tropidophiidae
+Tibetan Mastiff;Dog
+Tibetan Terrier;Dog
+Tick
+Tiger
+Tiger Beetle
+Tiger Cat
+Tiger Shark
+Timber Wolf;Eastern Wolf;Eastern Wolf
+Titi
+Toucan
+Toy Poodle;Dog
+Toy Terrier;Dog
+Tree Frog;Frog
+Triceratops
+Trilobite
+Tusker;Elephant;Elephant
+Vine Snake;Oxybelis;Oxybelis
+Vizsla;Dog
+Vulture
+Walker Hound;Treeing Walker Coonhound;Dog
+Walking Stick;Phasmatodea;Phasmatodea
+Wallaby;Macropodidae
+Warthog
+Water Buffalo
+Water Ouzel
+Water Snake;Nerodia;Nerodia
+Weasel
+Weevil
+Weimaraner;Dog
+Welsh Springer Spaniel;Dog
+West Highland White Terrier;Dog
+Whippet;Dog
+Whiptail;Teiidae;Teiidae
+White Stork
+White Wolf;Arctic Wolf;Arctic Wolf
+Wild Boar
+Wire-Haired Fox Terrier;Dog
+Wolf Spider
+Wombat
+Wood Rabbit;Eastern Cottontail;Eastern Cottontail
+Yorkshire Terrier;Dog
+Zebra
