@@ -1,16 +1,38 @@
-import React, { useState } from 'react';
+"use client"
+import { useState, useEffect } from 'react';
 import { useMediaQuery } from 'react-responsive';
 import axios from 'axios';
 import { Camera, Upload, SunMoon } from 'lucide-react';
 
-const App = () => {
+export default function Page()  {
   const [identifiedAnimal, setIdentifiedAnimal] = useState('');
   const [animalInfo, setAnimalInfo] = useState(null);
   const [scientificClassification, setScientificClassification] = useState(null);
-  const [isDarkMode, setIsDarkMode] = useState((window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches));
+  const [isDarkMode, setIsDarkMode] = useState(false);
   const isMobile = useMediaQuery({ maxWidth: 767 });
   const isDesktop = useMediaQuery({ minWidth: 768 });
   const [img_url,setImage] = useState('');
+
+  useEffect(() => {
+    // Check for dark mode preference only on the client side
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      setIsDarkMode(true);
+    } else {
+      setIsDarkMode(false);
+    }
+
+    // Optional: Listen for changes in the system's color scheme
+    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    const handleChange = (e) => {
+      setIsDarkMode(e.matches);
+    };
+    mediaQuery.addEventListener('change', handleChange);
+
+    // Cleanup the event listener on unmount
+    return () => {
+      mediaQuery.removeEventListener('change', handleChange);
+    };
+  }, []);
 
   const handleImageUpload = async (event) => {
     const file = event.target.files[0];
@@ -60,7 +82,8 @@ const App = () => {
   return (
     <div style={{
       ...themeStyles,
-      minHeight: '100vh',
+      height: '100vh',
+      width: '100vw',
       fontFamily: '-apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif',
       display: 'flex',
       flexDirection: 'column',
@@ -246,5 +269,3 @@ const App = () => {
     </div>
   );
 };
-
-export default App;
