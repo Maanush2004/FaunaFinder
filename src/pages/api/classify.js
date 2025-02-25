@@ -17,7 +17,7 @@ let classLabels = [];
 // Function to load model
 async function loadModel() {
   if (!model) {
-    const modelPath = `file://${path.join(process.cwd(), "public/model/model.json")}`;
+    const modelPath = `${process.env.MODEL_LOCATION}/model.json`;
     model = await tf.loadLayersModel(modelPath);
     console.log("Model loaded");
   }
@@ -26,10 +26,10 @@ async function loadModel() {
 // Function to load labels
 function loadLabels() {
   if (classLabels.length === 0) {
-    const labelsPath = path.join(process.cwd(), "public/model/labels.txt");
+    const labelsPath = path.join(process.cwd(), "public/labels.txt");
     const labelsData = fs.readFileSync(labelsPath, "utf8");
     classLabels = labelsData.split("\n").map((label) => label.trim()).filter(Boolean);
-    console.log("Labels loaded:", classLabels);
+    console.log("Labels loaded");
   }
 }
 
